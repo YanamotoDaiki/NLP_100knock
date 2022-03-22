@@ -8,6 +8,6 @@
 <a href="https://colab.research.google.com/drive/1JeK3QKCeSfISme3p1fOhox1qO6l5ZScx?usp=sharing">第6章</a> <br>
 <a href="https://colab.research.google.com/drive/1gGcCJchgjG0sGS7Xu31OS47SYW_g4fxE?usp=sharing">第7章</a> <br>
 <a href="https://colab.research.google.com/drive/1tYqhDy303px5fTtJdHu5ZpqmODz2-59f?usp=sharing">第8章</a> <br>
-<a href="https://colab.research.google.com/drive/1ePz_1pUYebmMtrz1qFXRvouAp9NEmX0d?usp=sharing">第9章(80~87)</a> <br>
-<a href="https://colab.research.google.com/drive/1NbquMUlUPCnzwg4eAGLGxwtdU34feeob?usp=sharing">第9章(88~89)</a> <br>
+<a href="https://colab.research.google.com/drive/1ePz_1pUYebmMtrz1qFXRvouAp9NEmX0d?usp=sharing">第9章(80-87)</a> <br>
+<a href="https://colab.research.google.com/drive/1NbquMUlUPCnzwg4eAGLGxwtdU34feeob?usp=sharing">第9章(88-89)</a> <br>
 <a href="">第10章</a>
